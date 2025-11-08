@@ -7,10 +7,12 @@
 
 # 2. 파일 구성
 '2501045.py' = 파이썬 25번 ~ 31번 문제 풀이 작성한 코드
+
 'READEME.md' = 과제 설명
 
 # 3. 코드 설명
 **딕셔너리(Dictionary)** 와 **Dictionary comprehension** 를 활용한 과제
+
 **딕셔너리(Dictionary)** 내장 함수인 (zip(), pop(), items(), get(), dict.fromkeys()) 을 활용하여 코드 구현
 
 ## 4. 기타 정보
